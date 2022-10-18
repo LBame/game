@@ -1,0 +1,3 @@
+﻿  main.cpp
+C:\Users\Magamed\source\repos\game\main.cpp(147,12): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+  game.vcxproj -> C:\Users\Magamed\source\repos\sdl2\x64\Debug\game.exe
